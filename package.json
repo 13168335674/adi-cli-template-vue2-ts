@@ -1,5 +1,8 @@
 {
-  "name": "lxtx",
+  "name": "{{name}}",
+  "description": "{{description}}",
+  "keywords": [],
+  "author": "{{author}}",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -53,6 +56,5 @@
     "vue-template-compiler": "^2.6.11"
   },
   "main": "index.js",
-  "author": "ZStop <569643843@qq.com>",
   "license": "MIT"
 }
